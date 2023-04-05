@@ -33,7 +33,10 @@ function Home() {
             <br />
             <br />
             <h3>This is Joel Hilton's new and improved movie website.</h3>
-            <h3>Navigate using the links in the upper left corner!</h3>
+            <h3>
+              Click on one of the buttons on the top left corner to explore the
+              page!
+            </h3>
           </center>
         </div>
       </body>
